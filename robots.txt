@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://penguinz2678.github.io/school_i/sitemap.xml
